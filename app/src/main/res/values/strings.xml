@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JavaAndroid</string>
+    <string name="listar_pedidos">Listar Pedidos</string>
+</resources>
